@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Research Experience"
+    url: /research/
 
-  - title: "Working Experience"
+  - title: "Work Experience"
     url: /work/
-    
+
   - title: "Awards & Honors"
     url: /award/
