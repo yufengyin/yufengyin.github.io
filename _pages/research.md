@@ -33,7 +33,7 @@ Research Experience
 
 * Advisors: Prof. [James Landay](https://profiles.stanford.edu/james-landay), Prof. [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)
 
-* <u>The Smart Primer</u> [[demo]](https://www.youtube.com/watch?v=osro97uAZ3k), 2018
+* <u>The Smart Primer</u> [[demo](https://www.youtube.com/watch?v=osro97uAZ3k), [poster](https://yufengyin.github.io/files/poster.pptx), [slides](https://yufengyin.github.io/files/slides.pptx)], 2018
   * A personal tutor for children that uses narrative and embedded physical world activities to enhance learning
   * **Stanford University Undergraduate Visiting Research Program (UGVR)**
   * Created a chat bot and a quiz bot to guide users
