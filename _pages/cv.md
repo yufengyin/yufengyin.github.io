@@ -74,8 +74,6 @@ Work Experience
 Skills & Others
 ======
 * Language: Mandarin, English
-  * TOEFL iBT 100 (Reading 28, Listening 25, Speaking 22, Writing 25)
-  * GRE Verbal 153 (61%), Quantitative 170 (96%), Analytical Writing 3.5 (41%)
 * Programming Languages: C, C++, Python, Java, JavaScript, R, HTML, Assembly, LaTeX, Matlab, Qt
 * Research Skills: vim, git, bash, cmake, gcc, gdb
 * Software: Visual Studio, Android Studio, Eclipse
