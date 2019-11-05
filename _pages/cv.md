@@ -13,7 +13,7 @@ Education
 ======
 * B.E. in Computer Science and Technologies, Tsinghua University, 2015 to 2019
 * B.S. in Pure and Applied Mathematics (Second Major), Tsinghua University, 2016 to 2019
-* Ph.D in Computer Science, University of Southern California, 2019 to 2024 (expected)
+* Ph.D. in Computer Science, University of Southern California, 2019 to 2024 (expected)
 
 Publications
 ======
