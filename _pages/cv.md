@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Yufeng Yin"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -30,8 +30,7 @@ Research Experience
 ======
 **Tsinghua University Human-Computer Speech Interaction Research Group**, 2016 to 2019
 
-* Advisor: Associate Prof. Jia Jia
-* Research Interests: Human-Computer Speech Interaction, Affective Computing & AI Education
+* Advisor: Prof. Jia Jia
 
 * <u>Understanding the Teaching Styles by an Attention based Multi-task Cross-media Dimensional Modeling</u>, 2018 to 2019
   * Established a fully-annotated voice data set (4,451 utterances) with pleasure and arousal values
@@ -67,7 +66,7 @@ Work Experience
   * Participated in editing slides, answering students’ questions and correcting homework
 
 * Summer 2018: Research Assistant
-  * Stanford University
+  * Stanford University Human-Computer Interaction Research Group
   * Developed an educational software on tablets named the Smart Primer
   * Supervisor: Prof. James Landay, Prof. Emma Brunskill
 
