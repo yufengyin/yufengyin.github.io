@@ -11,7 +11,7 @@ Research Experience
 ======
 **Tsinghua University Human-Computer Speech Interaction Research Group**, 2016 to 2019
 
-* Advisor: Prof. Jia Jia
+* Advisor: Prof. [Jia Jia](https://hcsi.cs.tsinghua.edu.cn/)
 
 * <u>Understanding the Teaching Styles by an Attention based Multi-task Cross-media Dimensional Modeling</u> [[pdf]](https://yufengyin.github.io/files/mm19.pdf), 2018 to 2019
   * Established a fully-annotated voice data set (4,451 utterances) with pleasure and arousal values
@@ -31,7 +31,7 @@ Research Experience
 
 **Stanford University Human-Computer Interaction Research Group**, 2018
 
-* Advisors: Prof. James Landay, Prof. Emma Brunskill
+* Advisors: Prof. [James Landay](https://profiles.stanford.edu/james-landay), Prof. [Emma Brunskill](https://cs.stanford.edu/people/ebrun/)
 
 * <u>The Smart Primer</u> [[demo]](https://www.youtube.com/watch?v=osro97uAZ3k), 2018
   * A personal tutor for children that uses narrative and embedded physical world activities to enhance learning
