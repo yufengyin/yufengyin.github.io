@@ -11,49 +11,71 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.E. in Computer Science and Technologies, Tsinghua University, 2015 to 2019
+* B.S. in Pure and Applied Mathematics (Second Major), Tsinghua University, 2016 to 2019
+* Ph.D in Computer Science, University of Southern California, 2019 to 2024 (expected)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards & Honors
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+Tsinghua University Academic Excellence Scholarship (Top 10% of Department), 2017
+Tsinghua University Comprehensive Excellence Scholarship (Top 5% of Department) , 2016
+
+Research Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+**Tsinghua University Human-Computer Speech Interaction Research Group**, 2016 to 2019
+
+Advisor: Associate Prof. Jia Jia
+Research Interests: Human-Computer Speech Interaction, Affective Computing & AI Education
+
+* Understanding the Teaching Styles by an Attention based Multi-task Cross-media Dimensional Modeling, 2018 to 2019
+  * Established a fully-annotated voice data set (4,451 utterances) with pleasure and arousal values
+  * Created a two-dimensional Teaching Style Semantic Space (TSSS) to determine teachers’ teaching styles
+  * Proposed a multi-task cross-media model to map acoustic features to coordinates on the TSSS
+  * Co-authered a paper published in **ACM MM'19**
+
+* Inferring Emotions from Large-scale Internet Voice Data, 2017 to 2018
+  * Employed DNN and LSTM with autoencoders to infer emotions from large-scale internet voice data
+  * Processed data, created neural networks, conducted experiments and edited the paper
+  * Co-authored a paper published in **TMM'19**
+
+* Inferring Emotion from Conversational Voice Data: A Semi-supervised Multi-path Generative Neural Network Approach, 2017
+  * Proposed a novel model to infer emotion from conversational voice data
+  * Collected over 24,000 real-world utterance, processed data and edited paper
+  * Co-authored a paper published in **AAAI'18**
+
+**Stanford University Human-Computer Interaction Research Group**, 2018
+
+Advisors: Prof. James Landay, Prof. Emma Brunskill
+
+* The Smart Primer, 2018
+  * A personal tutor for children that uses narrative and embedded physical world activities to enhance learning
+  * **Stanford University Undergraduate Visiting Research Program (UGVR)**
+  * Created a chat bot and a quiz bot to guide users
+  * Worked as the architect of the whole project for both frontend and backend coding
+
+Work Experience
 ======
-* Currently signed in to 43 different slack teams
+* Summer 2018: Research Assistant
+  * Stanford University
+  * Developed an educational software on tablets named the Smart Primer
+  * Supervisor: Prof. James Landay, Prof. Emma Brunskill
+
+* Fall 2018: Teaching Assistant for Principles of Signal Processing
+  * Tsinghua University
+  * Helped Prof. Jia Jia to prepare lessons, especially those including mathematical derivations
+  * Participated in editing slides, answering students’ questions and correcting homework
+
+Skills & Others
+======
+* Language: Mandarin, English
+  * TOEFL iBT 100 (Reading 28, Listening 25, Speaking 22, Writing 25)
+  * GRE Verbal 153 (61%), Quantitative 170 (96%), Analytical Writing 3.5 (41%)
+* Programming Languages: C, C++, Python, Java, JavaScript, R, HTML, Assembly, LaTeX, Matlab, Qt
+* Research Skills: vim, git, bash, cmake, gcc, gdb
+* Software: Visual Studio, Android Studio, Eclipse
