@@ -10,9 +10,9 @@ redirect_from:
 
 Yufeng Yin
 ======
-* CS Ph.D. student from Institute for Creative Technologies (ICT), University of Southern California
+* CS Ph.D. student from Institute for Creative Technologies (ICT), University of Southern California (USC)
 * Research Interests: Affective Computing and Human-Computer Interaction
-* [Intelligent Human Perception Lab, USC-ICT](https://ihp-lab.org/)
+* USC Intelligent Human Perception Lab: [link](https://ihp-lab.org/)
 * Email: yin@ict.usc.edu
 
 Biography
