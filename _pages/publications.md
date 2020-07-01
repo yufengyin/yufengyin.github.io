@@ -11,6 +11,12 @@ author_profile: true
 
 Publications
 ======
+***2020***
+* Sherry Ruan, Jiayu He, Rui Ying, Jonathan Burkle, Dunia Hakim, Anna Wang, **Yufeng Yin**, Lily Zhou, Qianyao Xu, Abdallah AbuHashem, Griffin Dietz, Elizabeth L Murnane, Emma Brunskill, James A Landay. Supporting children's math learning with feedback-augmented narrative technology. In the Proceedings of the 19th Interaction Design and Children Conference (IDC'20)
+
+***2019***
 * Suping Zhou, Jia Jia, **Yufeng Yin**, Xiang Li, Yang Yao, Ying Zhang, Zeyang Ye, Kehua Lei, Yan Huang, Jialie Shen. Understanding the Teaching Styles by an Attention based Multi-task Cross-media Dimensional Modeling. In the Proceedings of the 27th ACM International Conference on Multimedia (ACM MM'19) [[pdf]](https://yufengyin.github.io/files/mm19.pdf)
 * Jia Jia, Suping Zhou, **Yufeng Yin**, Boya Wu, Wei Chen, Fanbo Meng and Yanfeng Wang. Inferring Emotions From Large-scale Internet Voice Data. IEEE Transactions on Multimedia, 2019 (TMM'19) [[pdf]](https://yufengyin.github.io/files/tmm19.pdf)
+
+***2018***
 * Suping Zhou, Jia Jia, Qi Wang, Yufei Dong, **Yufeng Yin** and Kehua Lei. Inferring Emotion from Conversational Voice Data: A Semi-supervised Multi-path Generative Neural Network Approach. In the Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI'18) [[pdf]](https://yufengyin.github.io/files/aaai18.pdf)
