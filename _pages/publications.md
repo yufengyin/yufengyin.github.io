@@ -12,6 +12,8 @@ author_profile: true
 Publications
 ======
 ***2020***
+* **Yufeng Yin**, Baiyu Huang, Yizhen Wu, Mohammad Soleymani. Speaker-Invariant Adversarial Domain Adaptation for Emotion Recognition. Accepted by the 22nd ACM International Conference on Multimodal Interaction (ICMI'20)
+
 * Sherry Ruan, Jiayu He, Rui Ying, Jonathan Burkle, Dunia Hakim, Anna Wang, **Yufeng Yin**, Lily Zhou, Qianyao Xu, Abdallah AbuHashem, Griffin Dietz, Elizabeth L Murnane, Emma Brunskill, James A Landay. Supporting children's math learning with feedback-augmented narrative technology. In the Proceedings of the 19th Interaction Design and Children Conference (IDC'20)
 
 ***2019***
