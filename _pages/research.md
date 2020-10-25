@@ -9,7 +9,16 @@ redirect_from:
 
 Research Experience
 ======
-**Tsinghua University Human-Computer Speech Interaction Research Group**, 2016 to 2019
+**University of Southern California Intelligent Human Perception Lab**, 2019 - now
+
+* Advisor: Prof. [Mohammad Soleymani](https://www.ihp-lab.org/)
+
+* **Speaker-Invariant Adversarial Domain Adaptation for Emotion Recognition** [[pdf]](https://yufengyin.github.io/files/icmi20.pdf), [[code]](https://github.com/intelligent-human-perception-laboratory/Speaker-Invariant-Domain-Adversarial-Neural-Networks), 2020
+  * Studied the unsupervised domain adaptation problem on emotion recogintion with multimodal data
+  * Proposed Speaker-Invariant Domain-Adversarial Neural Network to reduce both the domain bias and the speaker bias
+  * Authored a paper published in **ICMI'20**
+
+**Tsinghua University Human-Computer Speech Interaction Research Group**, 2016 - 2019
 
 * Advisor: Prof. [Jia Jia](https://hcsi.cs.tsinghua.edu.cn/)
 
@@ -17,7 +26,7 @@ Research Experience
   * Established a fully-annotated voice data set (4,451 utterances) with pleasure and arousal values
   * Created a two-dimensional Teaching Style Semantic Space (TSSS) to determine teachers’ teaching styles
   * Proposed a multi-task cross-media model to map acoustic features to coordinates on the TSSS
-  * Co-authered a paper published in **ACM MM'19**
+  * Co-authored a paper published in **ACM MM'19**
 
 * **Inferring Emotions from Large-scale Internet Voice Data**  [[pdf]](https://yufengyin.github.io/files/tmm19.pdf), 2017 to 2018
   * Employed DNN and LSTM with autoencoders to infer emotions from large-scale internet voice data
