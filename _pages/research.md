@@ -13,8 +13,8 @@ Research Experience
 
 * Advisor: Prof. [Mohammad Soleymani](https://www.ihp-lab.org/)
 
-* *Speaker-Invariant Adversarial Domain Adaptation for Emotion Recognition* [[pdf]](https://yufengyin.github.io/files/icmi20.pdf), [[code]](https://github.com/intelligent-human-perception-laboratory/Speaker-Invariant-Domain-Adversarial-Neural-Networks), 2020
-  * Studied the unsupervised domain adaptation problem on emotion recogintion with multimodal data
+* *Speaker-Invariant Adversarial Domain Adaptation for Emotion Recognition* [[pdf](https://yufengyin.github.io/files/icmi20.pdf), [code]](https://github.com/intelligent-human-perception-laboratory/Speaker-Invariant-Domain-Adversarial-Neural-Networks), 2020
+  * Studied the unsupervised domain adaptation problem on emotion recognintion with multimodal data
   * Proposed Speaker-Invariant Domain-Adversarial Neural Network to reduce both the domain bias and the speaker bias
   * Authored a paper published in *ICMI'20*
 
