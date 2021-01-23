@@ -12,7 +12,7 @@ author_profile: true
 Publications
 ======
 ***2020***
-* **Yufeng Yin**, Baiyu Huang, Yizhen Wu, Mohammad Soleymani. Speaker-Invariant Adversarial Domain Adaptation for Emotion Recognition. In Proceedings of the 2020 International Conference on Multimodal Interaction (ICMI'20) [[pdf]](https://yufengyin.github.io/files/icmi20.pdf), [[code]](https://github.com/intelligent-human-perception-laboratory/Speaker-Invariant-Domain-Adversarial-Neural-Networks)
+* **Yufeng Yin**, Baiyu Huang, Yizhen Wu, Mohammad Soleymani. Speaker-Invariant Adversarial Domain Adaptation for Emotion Recognition. In Proceedings of the 2020 International Conference on Multimodal Interaction (ICMI'20) [[pdf](https://yufengyin.github.io/files/icmi20.pdf), [code](https://github.com/intelligent-human-perception-laboratory/Speaker-Invariant-Domain-Adversarial-Neural-Networks)]
 
 * Sherry Ruan, Jiayu He, Rui Ying, Jonathan Burkle, Dunia Hakim, Anna Wang, **Yufeng Yin**, Lily Zhou, Qianyao Xu, Abdallah AbuHashem, Griffin Dietz, Elizabeth L Murnane, Emma Brunskill, James A Landay. Supporting children's math learning with feedback-augmented narrative technology. In Proceedings of the 19th Interaction Design and Children Conference (IDC'20) [[pdf]](https://yufengyin.github.io/files/idc20.pdf)
 
