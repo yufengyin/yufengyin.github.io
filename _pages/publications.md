@@ -11,6 +11,9 @@ author_profile: true
 
 Publications
 ======
+***2021***
+* Soheil Rayatdoost, **Yufeng Yin**, David Rudrauf, Mohammad Soleymani. Subject Independent EEG Representation Learning for Emotion Recognition. Accepted by the 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP'21)
+
 ***2020***
 * **Yufeng Yin**, Baiyu Huang, Yizhen Wu, Mohammad Soleymani. Speaker-Invariant Adversarial Domain Adaptation for Emotion Recognition. In Proceedings of the 2020 International Conference on Multimodal Interaction (ICMI'20) [[pdf](https://yufengyin.github.io/files/icmi20.pdf), [code](https://github.com/intelligent-human-perception-laboratory/Speaker-Invariant-Domain-Adversarial-Neural-Networks)]
 
